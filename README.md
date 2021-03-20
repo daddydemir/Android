@@ -1,1 +1,2 @@
-# deneme
+# Android 
+Mobil programlamada kullanılacak içerikler
